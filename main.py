@@ -1,8 +1,9 @@
-from mod.calculator import prod_and_div
+# from mod.calculator import prod_and_div
 from mod.mod_add_string import add_name_ending
 from mod.mod_add_to_list import add_to_list
 from mod.mod_add_len import get_name_len
-from typing import Tuple, List, Union
+# from typing import Tuple, Union
+from typing import List
 
 # Create a simple calculus program as a script and as module.
 # def add_and_sub(number_one: int, number_two: int) -> Tuple[int, int]:
